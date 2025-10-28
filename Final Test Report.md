@@ -160,9 +160,9 @@ No major scope or requirement changes occurred during this test cycle. Minor edi
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | Palesa Radebe  |P.R |28/10/2025
-| | Risk Analyst | Veliswa Zicina  |V.Z |28/10/2025
-| | Test Executor | Josphine Mbugua |JM |28/10/2025
+| Test Manager | Palesa Radebe  |P.R |28/10/2025|
+| Risk Analyst | Veliswa Zicina  |V.Z |28/10/2025|
+| Test Executor | Josphine Mbugua |JM |28/10/2025|
 
 ## Overall Summary
 
